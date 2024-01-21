@@ -1,0 +1,13 @@
+var condition = true;
+
+if (condition == true) {
+    print "condition is true";
+}
+
+condition = false;
+
+if (condition == false) {
+    print "condition is false";
+}
+
+var condition = "try";
